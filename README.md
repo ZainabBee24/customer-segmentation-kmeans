@@ -38,7 +38,7 @@ These insights enable businesses to implement data-driven marketing strategies a
 - [`customer_segmentation_kmeans.pdf`](./customer_segmentation_kmeans.pdf) – Full project documentation.
 
 ## 🖥️ Run the Notebook on Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/customer-segmentation-kmeans/blob/main/customer_segmentation_kmeans.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/ZainabBee24/customer-segmentation-kmeans/blob/main/Unsupervised_Learning_Project.ipynb)]
 
 ## 📬 Contact
 **Zainab Balarabe Adam**  

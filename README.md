@@ -1,7 +1,6 @@
 # 🛍️ Customer Segmentation using K-Means Clustering (Unsupervised Learning)
 
 This project applies an unsupervised learning technique (K-Means Clustering) to segment mall customers based on their **annual income** and **spending score**. The goal is to uncover patterns in customer behavior to help businesses develop targeted marketing strategies and improve resource allocation.
-#**The project was completed as part of the Flexisaf Generative AI & Data Science Internship 2025.**#
 
 ## 📊 Problem Statement
 Businesses often lack a structured approach to classify customers, which results in generalized marketing efforts. This project addresses the challenge by applying K-Means Clustering to identify meaningful customer segments, enabling more personalized business strategies.
@@ -34,8 +33,11 @@ The K-Means Clustering algorithm segmented customers into **5 distinct clusters*
 These insights enable businesses to implement data-driven marketing strategies and improve customer relationship management.
 
 ## 📑 Project Files
-- [`customer_segmentation_kmeans.ipynb`](./customer_segmentation_kmeans.ipynb) – Jupyter Notebook with code and visualizations.
-- [`customer_segmentation_kmeans.pdf`](./customer_segmentation_kmeans.pdf) – Full project documentation.
+- Colab Notebook woth code and Visualizations
+https://github.com/ZainabBee24/customer-segmentation-kmeans/tree/main
+
+- Full Project Documentation 
+
 
 ## 🖥️ Run the Notebook on Google Colab
 [![Open In Colab](https://colab.research.google.com/github/ZainabBee24/customer-segmentation-kmeans/blob/main/Unsupervised_Learning_Project.ipynb)]

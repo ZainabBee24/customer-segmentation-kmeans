@@ -40,7 +40,7 @@ https://github.com/ZainabBee24/customer-segmentation-kmeans/tree/main
 https://github.com/ZainabBee24/customer-segmentation-kmeans/blob/main/Unsupervised_Learning_Project.ipynb%20-%20Colab.pdf
 
 ## 🖥️ Run the Notebook on Google Colab
-[![Open In Colab](https://colab.research.google.com/github/ZainabBee24/customer-segmentation-kmeans/blob/main/Unsupervised_Learning_Project.ipynb)]
+[![ https://colab.research.google.com/github/ZainabBee24/customer-segmentation-kmeans/blob/main/Unsupervised_Learning_Project.ipynb]]
 
 ## 📬 Contact
 **Zainab Balarabe Adam**  

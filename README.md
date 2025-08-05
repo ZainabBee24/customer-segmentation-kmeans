@@ -37,7 +37,7 @@ These insights enable businesses to implement data-driven marketing strategies a
 https://github.com/ZainabBee24/customer-segmentation-kmeans/tree/main
 
 - Full Project Documentation 
-
+https://github.com/ZainabBee24/customer-segmentation-kmeans/blob/main/Unsupervised_Learning_Project.ipynb%20-%20Colab.pdf
 
 ## 🖥️ Run the Notebook on Google Colab
 [![Open In Colab](https://colab.research.google.com/github/ZainabBee24/customer-segmentation-kmeans/blob/main/Unsupervised_Learning_Project.ipynb)]
@@ -45,3 +45,4 @@ https://github.com/ZainabBee24/customer-segmentation-kmeans/tree/main
 ## 📬 Contact
 **Zainab Balarabe Adam**  
 Email: adamzainabb1@gmail.com
+LinkedIn: https://www.linkedin.com/in/zainab-b-adam1 
